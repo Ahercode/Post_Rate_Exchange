@@ -1,6 +1,3 @@
-using System.Text.Json;
-using Microsoft.Data.SqlClient;
-using RateExchanger.Models;
 using RateExchanger.Processes;
 
 namespace RateExchanger;
